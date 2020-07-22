@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "name": "54.172.240.25",
+      "url": "http://54.172.240.25/",
+      "api": "http://54.172.240.25:8117/",
+      "type": "forknote",
+      "miningAddress": "54.172.240.25",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
+      "name": "chimera.pdss2access.com",
+      "url": "http://chimera.pdss2access.com/",
+      "api": "http://chimera.pdss2access.com:8117/",
+      "type": "forknote",
+      "miningAddress": "chimera.pdss2access.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    }
+  ]
+}
